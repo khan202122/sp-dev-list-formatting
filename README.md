@@ -21,7 +21,7 @@ You can find more details around the column formatting capability from official 
 
 - [Use column formatting to customize SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
 
-
+https
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
